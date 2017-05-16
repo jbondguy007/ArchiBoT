@@ -10,6 +10,7 @@
 		<Model>
 			<Pattern>RIP *</Pattern>
 			<Response>:ripgocha: <Match /></Response>
+		</Model>
 		
 		<Model>
 			<Pattern>
